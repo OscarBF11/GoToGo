@@ -1,5 +1,5 @@
 <a href="github.com/GoToGo">
-    <img src="!https://user-images.githubusercontent.com/51002396/125190940-1b601c80-e240-11eb-81b0-a60eff1acddd.png" alt="GoToGo logo" title="GoToGo APP" align="right" height="60" />
+    <img src="https://user-images.githubusercontent.com/51002396/125190940-1b601c80-e240-11eb-81b0-a60eff1acddd.png" alt="GoToGo logo" title="GoToGo APP" align="right" height="60" />
 </a>
 
 # GoToGo
@@ -15,13 +15,12 @@ GoToGo is an Android application capable of recommending and creating routes on 
 ![GoToGo contact](https://user-images.githubusercontent.com/51002396/125190018-5ca1fd80-e23b-11eb-8c77-a53dc39be6de.jpg)
 ![GoToGo categories](https://user-images.githubusercontent.com/51002396/125190020-5f9cee00-e23b-11eb-817e-ff15ce535b7d.jpg)
 ![GoToGo route](https://user-images.githubusercontent.com/51002396/125190021-60358480-e23b-11eb-8248-1f0ecfb753d7.jpg)
-![GoToGo emergency alert](https://user-images.githubusercontent.com/51002396/125190022-60358480-e23b-11eb-8eb7-3abc763e1bfe.jpg)
 
 ## Table of content
 
-- [INSTALACIÓN](#INSTALL)
-- [FUNCIOMES](#FUNCIONS)
-- [VERSIONES](#VERSIONES)
+- [Instalación](#INSTALL)
+- [Funciones](#FUNCIONS)
+- [Versiones](#VERSIONES)
     - [Versión 0](#version-0)
     - [Versión 1](#version-1)
     - [Versión 2](#version-2)
