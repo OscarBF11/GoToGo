@@ -1,4 +1,4 @@
-<a href="github.com/GoToGo">
+<a href="github.com/OscarBF11/GoToGo">
     <img src="https://user-images.githubusercontent.com/51002396/125190940-1b601c80-e240-11eb-81b0-a60eff1acddd.png" alt="GoToGo logo" title="GoToGo APP" align="right" height="60" />
 </a>
 
