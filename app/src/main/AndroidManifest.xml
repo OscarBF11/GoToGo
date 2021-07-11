@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.proyecto">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:name=".ActivityNotificationChannels"
+        android:allowBackup="true"
+        android:icon="@drawable/route"
+        android:label="GoToGo"
+        android:roundIcon="@drawable/route"
+        android:supportsRtl="true">
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/map_key" />
+
+        <activity
+            android:name=".MainActivity"
+            android:label="GoToGo"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            tools:ignore="LockedOrientationActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.categories.activities.ActivityFilmCulture"
+            android:theme="@style/AppTheme"
+            android:label="@string/filmCulture">
+        </activity>
+        <activity
+            android:name=".ui.categories.activities.ActivityMusic"
+            android:theme="@style/AppTheme"
+            android:label="@string/music">
+        </activity>
+        <activity
+            android:name=".ui.categories.activities.ActivityArchitecture"
+            android:theme="@style/AppTheme"
+            android:label="@string/architecture">
+        </activity>
+        <activity
+            android:name=".ui.categories.activities.ActivityGastronomy"
+            android:theme="@style/AppTheme"
+            android:label="@string/gastronomy">
+        </activity>
+        <activity
+            android:name=".ui.categories.activities.ActivityHistoricalMonuments"
+            android:theme="@style/AppTheme"
+            android:label="@string/monuments">
+        </activity>
+        <activity
+            android:name=".ui.categories.activities.ActivityPainting"
+            android:theme="@style/AppTheme"
+            android:label="@string/painting">
+        </activity>
+        <activity
+            android:name=".ui.categories.activities.ActivityUrbanArt"
+            android:theme="@style/AppTheme"
+            android:label="@string/urbanArt">
+        </activity>
+        <activity
+            android:name=".ui.categories.activities.ActivitySports"
+            android:theme="@style/AppTheme"
+            android:label="@string/sports">
+        </activity>
+        <activity
+            android:name=".ui.categories.activities.ActivityLeisure"
+            android:theme="@style/AppTheme"
+            android:label="@string/leisure">
+        </activity>
+        <activity
+            android:name=".ui.categories.activities.ActivityPoser"
+            android:theme="@style/AppTheme"
+            android:label="@string/poser">
+        </activity>
+
+        <activity
+            android:name=".ui.emergency.activities.ActivityAddContact"
+            android:theme="@style/AppTheme"
+            android:label="Add Contact">
+        </activity>
+        <activity
+        android:name=".ui.emergency.activities.ActivityProfilePhotos"
+        android:theme="@style/AppTheme"
+        android:label="Image Profile">
+    </activity>
+
+    </application>
+
+</manifest>

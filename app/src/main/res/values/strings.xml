@@ -1,0 +1,61 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">GoToGo</string>
+    <string name="nav_header_subtitle">Visit any place without risks</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    //Navigation menu
+    <string name="menu_home">Home</string>
+    <string name="menu_categories">Categories</string>
+    <string name="menu_emergency">Emergency</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_contact">Contact us</string>
+
+    //Contact us form
+    <string name="contact_form">Contact Us</string>
+    <string name="contact_form_name">Your Name</string>
+    <string name="contact_form_email">Your Email</string>
+    <string name="contact_form_subject">Subject</string>
+    <string name="contact_form_message">Message</string>
+    <string name="contact_form_button">Send Message</string>
+    <string name="contact_form_post_message">Please wait! We\'re sending your message to the support department...</string>
+    <string name="contact_posted">Your message has been successfully delivered.</string>
+
+    //texto principal objectCategory
+    <string name="select_text">Select the sites you prefer to visit or click "visit all" to visit any site</string>
+
+    //Nombres activitys objectCategory
+    <string name="filmCulture">Film Culture</string>
+    <string name="music">Music</string>
+    <string name="architecture">Architecture</string>
+    <string name="gastronomy">Gastronomy</string>
+    <string name="monuments">Monuments</string>
+    <string name="painting">Painting</string>
+    <string name="urbanArt">Urban Art</string>
+    <string name="sports">Sports</string>
+    <string name="leisure">Leisure</string>
+    <string name="poser">Poser</string>
+
+    <string name="generate_route">GENERATE RUTE</string>
+
+    //Fragment Emergencia
+    <string name="emergency">Sanitary</string>
+    <string name="police">Police</string>
+    <string name="fireFighters">Fire Fighters</string>
+    <string name="socialServices">Social Services</string>
+    <string name="callPermission">I do not have permissions to make calls</string>
+    <string name="callPermission1">Please allow calls to use this feature</string>
+    <string name="callButton">ALLOW TO MAKE CALLS</string>
+    <string name="emergencyTitleSafe">YOU ARE IN SAFE AREA!</string>
+    <string name="emergencyTitleUnsafe">YOU ARE IN UNSECURED AREA!</string>
+
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="locationFailed">I can\'t get your location</string>
+    <string name="secureZone">You are in a safe area</string>
+    <string name="unSecureZone">This is a discouraged area</string>
+
+
+</resources>

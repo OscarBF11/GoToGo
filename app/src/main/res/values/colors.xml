@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><!--BASADO EN LA PLATILLA DE DRIVE-->
+    <color name="colorPrimary">#64b5f6</color>
+    <color name="colorPrimaryLight">#9be7ff</color>
+    <color name="colorPrimaryDark">#2286c3</color>
+    <color name="colorSecundary">#64dd17</color>
+    <color name="colorSecundaryLight">#9cff57</color>
+    <color name="colorSecundaryDark">#1faa00</color>
+    <color name="colorComplementary1">#faa865</color>
+    <color name="colorComplementary2">#02eed6</color>
+    <color name="colorComplementary3">#021aee</color>
+    <color name="colorComplementary4">#6002ee</color>
+    <color name="colorComplementary5">#ee0290</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="white">#ffffff</color>
+    <color name="colorAlert">#B00020</color>
+    <color name="colorTextDark">#000000</color>
+    <color name="colorTextLight">#ffffff</color>
+    <color name="colorRoute1">#E56453</color>
+    <color name="colorRoute2">#27A2DB</color>
+    <color name="colorRoute3">#DC8744</color>
+    <color name="transparent">#00000000 </color>
+</resources>
