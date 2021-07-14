@@ -18,14 +18,15 @@ GoToGo is an Android application capable of recommending and creating routes on 
 
 ## Table of content
 
-- [Instalación](#INSTALL)
-- [Funciones](#FUNCIONS)
-- [Versiones](#VERSIONES)
+- [Instalación](#install)
+- [Funciones](#functions)
+- [Versiones](#versiones)
     - [Versión 0](#version-0)
     - [Versión 1](#version-1)
     - [Versión 2](#version-2)
     - [Versión 3](#version-3)
 - [License](#licencia)
+- [Autores](#autores)
 
 ## INSTALL
 
@@ -168,3 +169,6 @@ Categorías.
 
 This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
+## Autores
+OscarBF11
+Marcalle100
